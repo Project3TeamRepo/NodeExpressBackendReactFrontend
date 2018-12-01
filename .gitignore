@@ -1,0 +1,9 @@
+#dependencies
+/node_modules
+
+#misc
+.DS_Store
+.env
+.env.default.txt
+Requirements.md
+googlebaeb2747edb6a20f.html
